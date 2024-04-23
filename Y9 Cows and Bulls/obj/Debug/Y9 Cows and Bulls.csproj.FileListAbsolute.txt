@@ -1,0 +1,8 @@
+U:\Visual Studio 2024\Y9 Cows and Bulls\bin\Debug\Y9 Cows and Bulls.exe.config
+U:\Visual Studio 2024\Y9 Cows and Bulls\bin\Debug\Y9 Cows and Bulls.exe
+U:\Visual Studio 2024\Y9 Cows and Bulls\bin\Debug\Y9 Cows and Bulls.pdb
+U:\Visual Studio 2024\Y9 Cows and Bulls\obj\Debug\Y9 Cows and Bulls.csproj.AssemblyReference.cache
+U:\Visual Studio 2024\Y9 Cows and Bulls\obj\Debug\Y9 Cows and Bulls.csproj.CoreCompileInputs.cache
+U:\Visual Studio 2024\Y9 Cows and Bulls\obj\Debug\Y9 Cows and Bulls.exe
+U:\Visual Studio 2024\Y9 Cows and Bulls\obj\Debug\Y9 Cows and Bulls.pdb
+U:\Visual Studio 2024\Y9 Cows and Bulls\obj\Debug\Y9 Cows and Bulls.csproj.SuggestedBindingRedirects.cache
